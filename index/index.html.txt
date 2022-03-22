@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+<head>
+  <style>
+body
+{background-image: url("MILITARULAMARE.jpeg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.hide {
+  display: none;
+}
+    
+.myDIV:hover + .hide {
+  display: block;
+  color: red;
+}
+</style>  
+<title>MILITARU-HUB</title>
+</head>
+
+<body>
+<button type="button" ><a href="RETELESOCIALE.html" style="color:#40ff00">Retele Sociale</a></button>
+<center><font size="30" color="lightblue"><b><u><i>SALUT</u></i></b></font></center></font> 
+
+
+<footer id="footer">
+<p class="GOOFIE">
+  Apasa 
+<a href="GEORGIAN.html"><i>aici</i></a>
+sa stergi website-ul.
+</p>  
+</footer>
+<br></br>
+<p style="text-align:left;"><i>Made by Sleyderman18 & TeodorV2</i></p>
+<br></br>
+</body>
+</html>
